@@ -1,0 +1,127 @@
+.header{
+width: 100%;
+/* background-color: rgb(244, 244, 249); */
+color: #000;
+
+}
+
+.logo{
+margin : 0 200px 0 25px;
+/* display: inline-block; */
+float: left;
+
+}
+.div1{
+    /* display: inline-block; */
+    float: left;
+    margin-top: 20px;
+
+    
+}
+.list{
+list-style: none;
+margin-right: 100px;
+
+
+
+}
+.list li {
+    display: inline-block;
+margin-right: 60px;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #000;
+}
+.list li :hover{
+    /* display: inline-block; */
+color: #824059;
+}
+
+.sea{
+    /* margin-left: 800px; */
+    /* display: inline-block */
+    float: right;
+    margin: 35px 90px 0 0;
+   
+ 
+}
+.header .sea input{
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+}
+.content input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+#bu{
+    background-color: #c27d96;
+    border-radius: 15px;
+}
+.img{
+width: 570px;
+
+
+}
+   
+.clear{
+    clear: both;
+}
+.div3{
+    margin: 0 0 50px 120px;
+    
+    
+}
+.parent{
+background-color: black;
+display: flex;
+
+
+
+}
+.itm1{
+color: aliceblue;
+margin: 0 30px ;
+   
+}
+.itm2{
+    color: #ffffff;
+    margin:0 30px ;
+}
+.itm3{
+    color: #ffffff;
+    margin: 0 30px ;
+}
+.itm4{
+    color: #ffffff;
+     margin:0 30px ;
+}
+.itm5{
+    color: #ffffff;
+     margin:0 30px ;
+}
+.img1{
+    width: 25px;
+    height: 25px;
+    margin-top: -10px;
+}
+.img2{
+width: 30px;
+height: 15px;
+margin-left: 85px;
+margin-top: -22px;
+
+}
+
+
